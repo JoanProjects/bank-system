@@ -163,7 +163,7 @@ El backend requiere un archivo `.env` en su raíz (`backend/.env`) con las sigui
 
 ## 📁 Estructura de Carpetas (Simplificada)
 
-```text # ```
+```text # 
 bank-system/
 ├── backend/
 │   ├── config/
@@ -193,6 +193,7 @@ bank-system/
     ├── index.html
     ├── vite.config.js
     └── package.json
+```
 
 ## 👨‍💻 Autor
 
