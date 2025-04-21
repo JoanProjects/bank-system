@@ -173,7 +173,7 @@ bank-system/
 │   ├── routes/
 │   ├── services/
 │   ├── utils/
-│   ├── .env         # Variables de entorno (¡NO versionar!)
+│   ├── .env         # Variables de entorno
 │   ├── server.js    # Punto de entrada del backend
 │   └── package.json
 └── frontend/
