@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif; /* Ejemplo inicial */
+    /* Aquí irán tus estilos globales y overrides de Bootstrap */
+  }
+  
+  .main-container {
+    min-height: 80vh;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }

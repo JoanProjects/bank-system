@@ -1,0 +1,10 @@
+/* Estilos globales o overrides de Bootstrap aquí */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-container {
+  min-height: 80vh; 
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
