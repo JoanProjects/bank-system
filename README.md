@@ -163,6 +163,7 @@ El backend requiere un archivo `.env` en su raíz (`backend/.env`) con las sigui
 
 ## 📁 Estructura de Carpetas (Simplificada)
 
+text #
 bank-system/
 ├── backend/
 │ ├── config/
