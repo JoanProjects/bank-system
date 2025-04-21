@@ -163,36 +163,36 @@ El backend requiere un archivo `.env` en su raíz (`backend/.env`) con las sigui
 
 ## 📁 Estructura de Carpetas (Simplificada)
 
-text #
+```text # ```
 bank-system/
 ├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── services/
-│ ├── utils/
-│ ├── .env # Variables de entorno (¡NO versionar!)
-│ ├── server.js # Punto de entrada del backend
-│ └── package.json
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── utils/
+│   ├── .env         # Variables de entorno (¡NO versionar!)
+│   ├── server.js    # Punto de entrada del backend
+│   └── package.json
 └── frontend/
-├── public/
-├── src/
-│ ├── api/
-│ ├── assets/
-│ ├── components/
-│ ├── contexts/
-│ ├── hooks/
-│ ├── pages/
-│ ├── routes/
-│ ├── styles/
-│ ├── utils/ # (Ej: formateadores)
-│ ├── App.jsx
-│ └── main.jsx # Punto de entrada del frontend
-├── index.html
-├── vite.config.js
-└── package.json
+    ├── public/
+    ├── src/
+    │   ├── api/
+    │   ├── assets/
+    │   ├── components/
+    │   ├── contexts/
+    │   ├── hooks/
+    │   ├── pages/
+    │   ├── routes/
+    │   ├── styles/
+    │   ├── utils/     # (Ej: formateadores)
+    │   ├── App.jsx
+    │   └── main.jsx   # Punto de entrada del frontend
+    ├── index.html
+    ├── vite.config.js
+    └── package.json
 
 ## 👨‍💻 Autor
 
